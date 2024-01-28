@@ -8,3 +8,4 @@ C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Lab
 C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Second_One\obj\Debug\Second_One.csproj.GenerateResource.Cache
 C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Second_One\obj\Debug\Second_One.exe
 C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Second_One\obj\Debug\Second_One.pdb
+C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Second_One\obj\Debug\Second_One.csprojResolveAssemblyReference.cache

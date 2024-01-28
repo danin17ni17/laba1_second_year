@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourth_Four", "Laba_2_second_year_Tabolkin\Fourth_Four.csproj", "{585E71DD-C514-4AA8-B002-32FC4A14CA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourth_Three", "Fourth_Three\Fourth_Three.csproj", "{B024EF27-361E-4F0B-BF76-997A2619ABD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585E71DD-C514-4AA8-B002-32FC4A14CA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585E71DD-C514-4AA8-B002-32FC4A14CA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585E71DD-C514-4AA8-B002-32FC4A14CA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585E71DD-C514-4AA8-B002-32FC4A14CA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B024EF27-361E-4F0B-BF76-997A2619ABD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B024EF27-361E-4F0B-BF76-997A2619ABD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B024EF27-361E-4F0B-BF76-997A2619ABD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B024EF27-361E-4F0B-BF76-997A2619ABD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

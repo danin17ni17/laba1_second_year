@@ -6,3 +6,4 @@ C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Lab
 C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Fourth_One\obj\Debug\Fourth_One.csproj.GenerateResource.Cache
 C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Fourth_One\obj\Debug\Fourth_One.exe
 C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Fourth_One\obj\Debug\Fourth_One.pdb
+C:\Users\Даниил Таболкин\documents\visual studio 2012\Projects\Laba_1_second_year_Tabolkin\Fourth_One\obj\Debug\Fourth_One.csprojResolveAssemblyReference.cache
